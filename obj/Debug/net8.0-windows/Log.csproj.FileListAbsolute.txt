@@ -1,0 +1,15 @@
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\bin\Debug\net8.0-windows\Log.exe
+C:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\bin\Debug\net8.0-windows\Log.deps.json
+C:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\bin\Debug\net8.0-windows\Log.runtimeconfig.json
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\bin\Debug\net8.0-windows\Log.dll
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\bin\Debug\net8.0-windows\Log.pdb
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\obj\Debug\net8.0-windows\Log.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\obj\Debug\net8.0-windows\Log.AssemblyInfoInputs.cache
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\obj\Debug\net8.0-windows\Log.AssemblyInfo.cs
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\obj\Debug\net8.0-windows\Log.csproj.CoreCompileInputs.cache
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\obj\Debug\net8.0-windows\Log.sourcelink.json
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\obj\Debug\net8.0-windows\Log.dll
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\obj\Debug\net8.0-windows\refint\Log.dll
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\obj\Debug\net8.0-windows\Log.pdb
+C:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\obj\Debug\net8.0-windows\Log.genruntimeconfig.cache
+C:\Users\Afatsao\Documents\VsCodeProjects\C#\Log\obj\Debug\net8.0-windows\ref\Log.dll
