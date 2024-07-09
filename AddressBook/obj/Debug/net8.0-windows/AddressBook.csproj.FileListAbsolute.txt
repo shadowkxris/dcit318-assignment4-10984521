@@ -1,0 +1,14 @@
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\bin\Debug\net8.0-windows\AddressBook.exe
+C:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\bin\Debug\net8.0-windows\AddressBook.deps.json
+C:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\bin\Debug\net8.0-windows\AddressBook.runtimeconfig.json
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\bin\Debug\net8.0-windows\AddressBook.dll
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\bin\Debug\net8.0-windows\AddressBook.pdb
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\obj\Debug\net8.0-windows\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\obj\Debug\net8.0-windows\AddressBook.AssemblyInfoInputs.cache
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\obj\Debug\net8.0-windows\AddressBook.AssemblyInfo.cs
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\obj\Debug\net8.0-windows\AddressBook.csproj.CoreCompileInputs.cache
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\obj\Debug\net8.0-windows\AddressBook.dll
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\obj\Debug\net8.0-windows\refint\AddressBook.dll
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\obj\Debug\net8.0-windows\AddressBook.pdb
+C:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\obj\Debug\net8.0-windows\AddressBook.genruntimeconfig.cache
+C:\Users\Afatsao\Documents\VsCodeProjects\C#\AddressBook\obj\Debug\net8.0-windows\ref\AddressBook.dll
