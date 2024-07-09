@@ -1,0 +1,14 @@
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\bin\Debug\net8.0-windows\MouseDraw.exe
+C:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\bin\Debug\net8.0-windows\MouseDraw.deps.json
+C:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\bin\Debug\net8.0-windows\MouseDraw.runtimeconfig.json
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\bin\Debug\net8.0-windows\MouseDraw.dll
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\bin\Debug\net8.0-windows\MouseDraw.pdb
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\obj\Debug\net8.0-windows\MouseDraw.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\obj\Debug\net8.0-windows\MouseDraw.AssemblyInfoInputs.cache
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\obj\Debug\net8.0-windows\MouseDraw.AssemblyInfo.cs
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\obj\Debug\net8.0-windows\MouseDraw.csproj.CoreCompileInputs.cache
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\obj\Debug\net8.0-windows\MouseDraw.dll
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\obj\Debug\net8.0-windows\refint\MouseDraw.dll
+c:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\obj\Debug\net8.0-windows\MouseDraw.pdb
+C:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\obj\Debug\net8.0-windows\MouseDraw.genruntimeconfig.cache
+C:\Users\Afatsao\Documents\VsCodeProjects\C#\MouseDraw\obj\Debug\net8.0-windows\ref\MouseDraw.dll
